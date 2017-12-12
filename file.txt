@@ -1,0 +1,4 @@
+Q = a b c d e f 
+A = 1 2 3 4 5
+Initial = a
+Final = b c

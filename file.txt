@@ -1,4 +1,9 @@
-Q = a b c d e f 
-A = 1 2 3 4 5
-Initial = a
-Final = b c
+Q = q0 q1 q2 
+A = 0 1 2
+Initial = q0
+Final = q2
+q0 ; 0 = q0
+q0 ; empty = q1
+q1 ; 1 = q1
+q1 ; empty = q2
+q2 ; 2 = q2
